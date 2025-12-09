@@ -4,9 +4,14 @@
 
 <img width="345" height="440" alt="image" src="https://github.com/user-attachments/assets/7c8b69f0-5c98-4915-89f6-988aa4dcdfa6" />
 
-Самый выгодный канал привлечния Email. Но дешево не всегда хорошо. Главное качество привлеченных пользователей. 
 
 2)Какой канал приносит наибольшую LTV? Сравните 30-дневную ценность пользователей по каналам
 
 <img width="349" height="439" alt="image" src="https://github.com/user-attachments/assets/be70e739-dbef-4742-89b8-526a844702b2" />
+
+2*) Соотношение LTV30/CAC
+
+Какой канал приносит наибольшую LTV? Сравните 30-дневную ценность пользователей по каналам
+
+<img width="422" height="437" alt="image" src="https://github.com/user-attachments/assets/3b078e69-a821-4cb4-a271-421efa1f9cd1" />
 
