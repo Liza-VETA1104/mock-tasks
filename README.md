@@ -15,3 +15,8 @@
 
 <img width="422" height="437" alt="image" src="https://github.com/user-attachments/assets/3b078e69-a821-4cb4-a271-421efa1f9cd1" />
 
+3) Где лучший ROMI? Проанализируйте возврат инвестиций по типам кампаний
+   
+<img width="354" height="441" alt="image" src="https://github.com/user-attachments/assets/eb76fc12-54c8-4f11-873b-49a6375edcd1" />
+
+
