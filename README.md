@@ -19,4 +19,9 @@
    
 <img width="354" height="441" alt="image" src="https://github.com/user-attachments/assets/eb76fc12-54c8-4f11-873b-49a6375edcd1" />
 
+4)Качество vs Количество: Сопоставьте объем трафика и конверсию в покупки
+
+<img width="408" height="441" alt="image" src="https://github.com/user-attachments/assets/ff482b49-72c7-4b8d-9e8f-be8dc5b5886d" />
+
+
 
